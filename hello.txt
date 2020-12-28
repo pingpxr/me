@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 say goodbye bye
+=======
+say goodbye
+>>>>>>> master2
